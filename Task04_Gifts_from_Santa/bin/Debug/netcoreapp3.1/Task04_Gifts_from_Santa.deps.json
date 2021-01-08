@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task04_Gifts_from_Santa/1.0.0": {
+        "runtime": {
+          "Task04_Gifts_from_Santa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task04_Gifts_from_Santa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
