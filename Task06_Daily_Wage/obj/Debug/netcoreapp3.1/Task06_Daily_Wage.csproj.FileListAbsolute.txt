@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\bin\Debug\netcoreapp3.1\Task06_Daily_Wage.exe
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\bin\Debug\netcoreapp3.1\Task06_Daily_Wage.deps.json
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\bin\Debug\netcoreapp3.1\Task06_Daily_Wage.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\bin\Debug\netcoreapp3.1\Task06_Daily_Wage.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\bin\Debug\netcoreapp3.1\Task06_Daily_Wage.dll
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\bin\Debug\netcoreapp3.1\Task06_Daily_Wage.pdb
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\obj\Debug\netcoreapp3.1\Task06_Daily_Wage.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\obj\Debug\netcoreapp3.1\Task06_Daily_Wage.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\obj\Debug\netcoreapp3.1\Task06_Daily_Wage.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\obj\Debug\netcoreapp3.1\Task06_Daily_Wage.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\obj\Debug\netcoreapp3.1\Task06_Daily_Wage.dll
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\obj\Debug\netcoreapp3.1\Task06_Daily_Wage.pdb
+C:\Users\Kiril\source\repos\Exam\Task06_Daily_Wage\obj\Debug\netcoreapp3.1\Task06_Daily_Wage.genruntimeconfig.cache
